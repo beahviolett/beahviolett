@@ -9,6 +9,8 @@
 🌱 Estou em constante aprendizado e buscando evoluir cada vez mais para conquistar minha primeira oportunidade na área de tecnologia.
 
 
+
+
 ## 🚀 Tecnologias em estudo
 
 <p align="left">
@@ -49,3 +51,8 @@
   <img src="https://github-readme-stats-alpha.vercel.app/api?username=beahviolett&show_icons=true&theme=radical&locale=pt-br" alt="Estatísticas do GitHub" height="200px" />
   <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=beahviolett&layout=compact&theme=radical&locale=pt-br" alt="Linguagens mais usadas" height="200px" />
 </p>
+
+## 🎯 Próximos Passos & Objetivos
+- 🚀 Aprofundar os conhecimentos em Programação Orientada a Objetos (POO) com Python.
+- 💾 Praticar consultas complexas (Joins e Views) em Banco de Dados.
+- 🌐 Criar meus primeiros projetos integrando o Back-End com estruturas Front-End.
