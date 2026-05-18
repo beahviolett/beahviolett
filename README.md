@@ -46,6 +46,6 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats-alpha.vercel.app/api?username=beahviolett&show_icons=true&theme=radical&locale=pt-br" alt="Estatísticas do GitHub" height="150px" />
-  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=beahviolett&layout=compact&theme=radical&locale=pt-br" alt="Linguagens mais usadas" height="150px" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api?username=beahviolett&show_icons=true&theme=radical&locale=pt-br" alt="Estatísticas do GitHub" height="200px" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=beahviolett&layout=compact&theme=radical&locale=pt-br" alt="Linguagens mais usadas" height="200px" />
 </p>
