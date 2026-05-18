@@ -60,7 +60,7 @@
 ## 🤝 Conecte-se comigo
 
 <p align="left">
-  <a href="linkedin.com/in/anna-beatriz-da-costa-campos-1a5616198/" target="_blank">
+  <a href="www.linkedin.com/in/anna-beatriz-da-costa-campos-1a5616198/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-8A2BE2?labelColor=201a30&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28px" />
   </a>
   <a href="mailto:beahsun@outlook.com">
