@@ -46,13 +46,13 @@
 ### 📊 Estatísticas
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.shion.dev/api?username=beahviolett&show_icons=true&theme=radical&locale=pt-br" alt="Estatísticas do GitHub" height="200px" />
+  <table style="border: none; border-collapse: collapse; background: transparent;">
+    <tr style="border: none;">
+      <td style="border: none; padding: 5px;">
+        <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=beahviolett&show_icons=true&theme=radical&locale=pt-br" alt="Estatísticas do GitHub" height="150px" style="border: none; outline: none; box-shadow: none;" />
       </td>
-      <td>
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=beahviolett&layout=compact&theme=radical&locale=pt-br" alt="Linguagens mais usadas" height="200px" />
+      <td style="border: none; padding: 5px;">
+        <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=beahviolett&layout=compact&theme=radical&locale=pt-br" alt="Linguagens mais usadas" height="150px" style="border: none; outline: none; box-shadow: none;" />
       </td>
     </tr>
   </table>
